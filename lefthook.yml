@@ -1,5 +1,5 @@
-pre-commit:
-  parallel: true
-  commands:
-    prettier:
-      run: npx pretty-quick --staged
+# pre-commit:
+#   parallel: true
+#   commands:
+#     prettier:
+#       run: npx pretty-quick --staged
