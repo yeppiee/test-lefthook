@@ -2,5 +2,4 @@ pre-commit:
   parallel: true
   commands:
     prettier:
-      glob: "*.{js,ts,jsx,tsx}"
       run: npx pretty-quick --staged -ignore-path .gitignore
