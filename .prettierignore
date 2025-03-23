@@ -37,5 +37,4 @@ mock-server/data
 node_modules
 public
 !public/index.html
-lefthook.yml
 .husky
