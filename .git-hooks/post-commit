@@ -1,5 +1,0 @@
-#!/bin/sh
-
-echo "Hello post commit"
-
-git update-index -g
