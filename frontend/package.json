@@ -7,8 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "prepare": "[ -d .git-hooks ] && git config core.hooksPath .git-hooks || echo 'Error: .git-hooks directory not found'"
+    "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.0.0",
