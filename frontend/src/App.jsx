@@ -13,6 +13,9 @@ function App() {
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
+        <a href="https://vitejs.dev/guide/features.html" target="_blank">
+          test
+        </a>
         <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
